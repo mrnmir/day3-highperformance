@@ -3,6 +3,8 @@ Inheritance, Numpy, MPI and GPU
 
 ## 1. Examples on classes and inheritance in Python
 
+#### Added as classroom.py to the directory
+
 #### a. Create a "Person" class which takes firstname and lastname as arguments to the constructor (```___init___```) and define a method that returns the full name of the person as a combined string.
 
 #### b. Create a "Student" class which inherits from the "Person" class, takes the subject area as an additional argument to the constructor and define a method that prints the full name and the subject area of the student.
@@ -19,6 +21,8 @@ Benedikt Daurer, physics
 
 
 ## 2. Numpy exercises
+
+#### Added as second_exercise.ipynb to the directory
 
 #### a. Create a null vector of size 10 but the fifth value which is 1
 
@@ -79,6 +83,8 @@ print(D)
 
 ## 3. Speed optimization using Numpy
 Revisit the ```matmult.py``` example from yesterday and improve its performance using Numpy.
+
+#### already done yesterday
 
 ## 4. MPI parallelization
 
